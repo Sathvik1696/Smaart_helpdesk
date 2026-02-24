@@ -118,5 +118,3 @@ Contributions are welcome! Here’s how you can help:
 This project is open-source and free to use — license details can be added here.
 
 ---
-
-If you want, I can tailor this README further (e.g., add screenshots, deployment steps, live demo link). Just tell me what style or extra details you want!
