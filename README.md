@@ -1,7 +1,3 @@
-Here’s a clean, structured **README** you can use for your project **[Smaart_helpdesk GitHub Repository](https://github.com/Sathvik1696/Smaart_helpdesk)**. You can copy-paste this into your repo’s *README.md* on GitHub.
-
----
-
 # Smaart Helpdesk
 
 A lightweight helpdesk support system built using **Python (Django)** with a simple and intuitive interface for users to create, view, and manage support tickets.
